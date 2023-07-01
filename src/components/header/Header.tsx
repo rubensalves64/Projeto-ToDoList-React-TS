@@ -8,7 +8,7 @@ interface Props {
 }
 
 export function Header({ onAddTask }: Props) {
-  const [title, setTitle] = useState("");
+  const [title, setTitle] = useState(" ");
 
   function handleSubmit(event: FormEvent) {
     event.preventDefault();
