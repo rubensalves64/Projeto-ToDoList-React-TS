@@ -1,7 +1,7 @@
 import { TbClipboardText } from "react-icons/tb";
 import { ATask } from "../../App";
 import { Task } from "../task/Task";
-import styles from "./tasks.module.css";
+import styles from "./Tasks.module.css";
 
 interface Props {
   tasks: ATask[];

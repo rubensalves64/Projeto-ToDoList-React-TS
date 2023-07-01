@@ -1,7 +1,7 @@
 import { TbTrash } from "react-icons/tb";
 import { BsFillCheckCircleFill } from "react-icons/bs";
 
-import styles from "./task.module.css";
+import styles from "./Task.module.css";
 import { ATask } from "../../App";
 
 interface Props {
