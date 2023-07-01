@@ -1,6 +1,6 @@
 import todoLogo from "../images/Logocomplete.svg";
 import { AiOutlinePlusCircle } from "react-icons/ai";
-import styles from "./header.module.css";
+import styles from "./Header.module.css";
 import { ChangeEvent, FormEvent, useState } from "react";
 
 interface Props {
